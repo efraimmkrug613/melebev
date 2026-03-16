@@ -1,5 +1,4 @@
-{
-            "clients": [{
+            [{
             "name": "Ace",
             "phone": "052-199-3939",
             "isStudent": false,
@@ -65,4 +64,3 @@
             "isStudent": false,
             "address": "123 Main Street"
             }]
-}
